@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>C:/Users/PMYLS/Downloads/background.PNG</file>
+        <file>C:/Users/PMYLS/Downloads/Hotel2-3.jpeg</file>
+        <file>C:/Users/PMYLS/Downloads/Hotel1-3.jpeg</file>
+        <file>C:/Users/PMYLS/Downloads/Hotel1-1.jpeg</file>
+        <file>C:/Users/PMYLS/Downloads/Hotel1.jpeg</file>
+        <file>C:/Users/PMYLS/Downloads/Hotel3-3.jpeg</file>
+        <file>C:/Users/PMYLS/Downloads/Hotel3-2.jpeg</file>
+        <file>C:/Users/PMYLS/Downloads/Hotel3-1.jpeg</file>
+        <file>C:/Users/PMYLS/Downloads/Hotel3.jpeg</file>
+        <file>C:/Users/PMYLS/Downloads/Hotel1-2.jpeg</file>
+        <file>C:/Users/PMYLS/Downloads/Hotel2-2.jpeg</file>
+        <file>C:/Users/PMYLS/Downloads/Hotel2-1.jpeg</file>
+        <file>C:/Users/PMYLS/Downloads/Hotel2.jpeg</file>
+        <file>../images/background.PNG</file>
+        <file>../images/Hotel1.jpeg</file>
+        <file>../images/Hotel1-1.jpeg</file>
+        <file>../images/Hotel1-2.jpeg</file>
+        <file>../images/Hotel1-3.jpeg</file>
+        <file>../images/Hotel2.jpeg</file>
+        <file>../images/Hotel2-1.jpeg</file>
+        <file>../images/Hotel2-2.jpeg</file>
+        <file>../images/Hotel2-3.jpeg</file>
+        <file>../images/Hotel3.jpeg</file>
+        <file>../images/Hotel3-1.jpeg</file>
+        <file>../images/Hotel3-2.jpeg</file>
+        <file>../images/Hotel3-3.jpeg</file>
+    </qresource>
+</RCC>
